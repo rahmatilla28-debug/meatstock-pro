@@ -1,0 +1,1 @@
+mkdir backend\app\models && mkdir backend\app\routers && mkdir backend\app\utils && mkdir frontend\src\api && mkdir frontend\src\context && mkdir frontend\src\components && mkdir frontend\src\pages && mkdir frontend\public
